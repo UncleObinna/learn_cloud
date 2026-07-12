@@ -7,6 +7,7 @@ Learning to Cloud with Amina
 An in-depth bootcamp to get participants into and beyond the 
 fundamentals of Cloud computing, Linux,
 Networking and Version Control.
+learncloud.aminalawal.com
 
 ## Contact
 Kanu Obinna - @UncleObinna - kanuchukwuemekaobinna@gmail.com
